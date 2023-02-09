@@ -1,0 +1,94 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+nav{
+	margin: 15px;
+	background: black;
+	padding: 15px;
+	
+	height: 10px;
+	border: 2px solid black;
+	border-radius: 10px;
+
+}
+
+a{
+	color: whitesmoke;
+	list-style: none;
+	text-decoration: none;
+}
+#dor{
+	object-position: center;
+}
+
+.Overview{
+	margin: 15px;
+	background: black;
+	color: white;
+	padding: 15px;
+	border:  4px solid silver;
+	border-radius: 20px;
+	text-align: center;
+
+}
+
+.Doraemon{
+	margin: 15px;
+	background: skyblue;
+	color: black;
+	border: 3px solid black;
+	padding: 20px 30px;
+	border-radius: 13px;
+	text-align: center;
+
+
+}
+
+.Shinchan{
+	background: red;
+	color: gold;
+	margin: 15px;
+	padding: 20px;
+	border: 3px solid gold;
+	border-radius: 13px;
+	box-sizing: content-box;
+	text-align: center;
+
+
+}
+
+.Pokemon{
+	background: yellow;
+	color: black;
+	margin: 15px;
+	padding: 30px;
+	border: 4px solid black;
+	border-radius: 15px;
+	text-align: center;
+	
+}
+
+.Ben{
+	background: lightgreen;
+	color: black;
+	margin: 15px;
+	padding: 35px;
+	border: 5px solid black;
+	border-radius: 20px;
+	text-align: center;
+}
+.Beyblade{
+	background: black;
+	color: silver;
+	margin: 15px;
+	padding: 30px;
+	border: 4px solid silver;
+	border-radius: 20px;
+	text-align: center;
+
+}
+a:hover{
+	text-decoration: underline;
+}
